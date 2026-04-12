@@ -1,22 +1,22 @@
-# Available .TRAINING One-Word Domains (5,622,084)
+# Available .TRAINING One-Word Domains (8,670)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C671%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C622%2C084%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C670%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .training one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .training one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 8,671-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,622,084 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 8,671 rows · **Live catalog:** 5,622,084 domains
+**Public extract:** 8,671 rows · **Live catalog:** 8,670 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/training`  
 **Best for:** founders, investors, studios
 
@@ -78,11 +78,11 @@ print(df.head())
 | green.training   | premium   | $128.70   | $128.70       | 108            | 45     | 5      | namecheap        |
 | order.training   | available | $21.99    | $52.99        | 78             | 41     | 5      | name.com         |
 | code.training    | resell    | —         | —             | 72             | 61     | 4      | Dynadot Inc      |
-| map.training     | premium   | $128.70   | $128.70       | 78             | 45     | 3      | namecheap        |
-| eternal.training | available | $21.99    | $52.99        | 92             | 40     | 7      | name.com         |
-| the.training     | resell    | —         | —             | 98             | 58     | 3      | Sav.com, LLC     |
 | food.training    | premium   | $260      | $260          | 94             | 44     | 4      | namecheap        |
 | review.training  | available | $53.98    | —             | 94             | 39     | 6      | namecheap        |
+| the.training     | resell    | —         | —             | 98             | 58     | 3      | Sav.com, LLC     |
+| pop.training     | premium   | $82.50    | $82.50        | 82             | 43     | 3      | name.com         |
+| eternal.training | available | $21.99    | $52.99        | 92             | 39     | 7      | name.com         |
 | better.training  | resell    | —         | —             | 110            | 56     | 6      | Dynadot Inc      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,671-row public sample | 5,622,084 live domains                           |
+| 8,671-row public sample | 8,670 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TRAINING One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TRAINING One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
