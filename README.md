@@ -1,10 +1,10 @@
-# Available .TRAINING One-Word Domains (11,573)
+# Available .TRAINING One-Word Domains (11,574)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C573%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C574%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .training one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,573 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,574 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,573 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,574 domains · **Median ask:** $26.00 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-03  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/training`  
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,18 @@ print(df.head())
 
 | domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| finals.training      | available | $21.99    | —             | 80             | 7      | 6      | name.com        |
+| barup.training       | available | $21.99    | —             | 82             | 2      | 6      | name.com        |
+| getup.training       | available | $21.99    | —             | 82             | 14     | 6      | name.com        |
+| popup.training       | available | $21.99    | —             | 84             | 29     | 6      | name.com        |
+| useit.training       | available | $21.99    | —             | 94             | 7      | 6      | name.com        |
+| dogsit.training      | available | $21.99    | —             | 96             | 2      | 6      | name.com        |
+| gearup.training      | available | $21.99    | —             | 80             | 16     | 7      | name.com        |
+| QandA.training       | available | $53.98    | —             | 80             | 10     | 7      | namecheap       |
+| toneup.training      | available | $21.99    | —             | 80             | 5      | 7      | name.com        |
+| makeit.training      | available | $21.99    | —             | 82             | 22     | 7      | name.com        |
+| stirup.training      | available | $21.99    | —             | 82             | 3      | 7      | name.com        |
+| getlife.training     | available | $21.99    | —             | 80             | 5      | 8      | name.com        |
 | tokens.training      | available | $21.99    | —             | 51             | 36     | 6      | name.com        |
 | live.training        | resell    | —         | —             | 86             | 54     | 4      | Porkbun LLC     |
 | restaurants.training | premium   | $500      | —             | 57             | 21     | 11     | name.com        |
@@ -72,18 +84,6 @@ print(df.head())
 | networks.training    | premium   | $123.75   | —             | 60             | 20     | 8      | name.com        |
 | inspiration.training | available | $21.99    | —             | 88             | 30     | 11     | name.com        |
 | circle.training      | resell    | —         | —             | 68             | 44     | 6      | Spaceship, Inc. |
-| accountants.training | premium   | $118.80   | $118.80       | 50             | 16     | 11     | namesilo        |
-| popup.training       | available | $21.99    | —             | 84             | 29     | 6      | name.com        |
-| chatbot.training     | resell    | —         | —             | 82             | 36     | 7      | Spaceship, Inc. |
-| SanDiego.training    | available | $21.99    | —             | 74             | 29     | 9      | name.com        |
-| photos.training      | available | $21.99    | —             | 54             | 28     | 6      | name.com        |
-| backyard.training    | available | $21.99    | —             | 80             | 27     | 9      | name.com        |
-| gods.training        | available | $21.99    | —             | 72             | 27     | 4      | name.com        |
-| Keith.training       | available | $53.98    | —             | 66             | 25     | 5      | namecheap       |
-| comics.training      | available | $21.99    | —             | 68             | 24     | 6      | name.com        |
-| shops.training       | available | $21.99    | —             | 64             | 24     | 5      | name.com        |
-| gamers.training      | available | $21.99    | —             | 62             | 24     | 6      | name.com        |
-| echoes.training      | available | $21.99    | —             | 56             | 24     | 6      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,573 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 11,574 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of one-word .training domains. The set spans direct keyword names, broad nouns, and more flexible brandables such as Acup.training, Finals.training, Forces.training, and GetUp.training. For founders, the main question is whether the word is clear enough to carry a training business without extra explanation. For investors, the better candidates are words with obvious commercial use, broad buyer relevance, and a clean fit with the .training extension. With a median ask of 25.999, price discipline matters less than choosing names that are easy to remember, easy to interpret, and less likely to create trademark friction.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Favor words that fit education, coaching, or skills use cases
+- Check if the word reads naturally before .training
+- Prefer memorable names with broad buyer relevance
+- Avoid terms that may carry trademark or narrow-use risk
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TRAINING One-Word Domains*. Version 2026-05-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TRAINING One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
