@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .training one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,580 domains · **Median ask:** $26.00 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/training`  
 **Best for:** founders, investors, studios
 
@@ -66,14 +66,14 @@ print(df.head())
 | -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
 | finals.training      | available | $21.99    | —             | 80             | 7      | 6      | name.com        |
 | barup.training       | available | $21.99    | —             | 82             | 2      | 6      | name.com        |
-| getup.training       | available | $21.99    | —             | 82             | 14     | 6      | name.com        |
-| popup.training       | available | $21.99    | —             | 84             | 29     | 6      | name.com        |
+| getup.training       | available | $21.99    | —             | 82             | 15     | 6      | name.com        |
+| popup.training       | available | $21.99    | —             | 84             | 28     | 6      | name.com        |
 | useit.training       | available | $21.99    | —             | 94             | 7      | 6      | name.com        |
 | dogsit.training      | available | $21.99    | —             | 96             | 2      | 6      | name.com        |
 | gearup.training      | available | $21.99    | —             | 80             | 16     | 7      | name.com        |
 | QandA.training       | available | $53.98    | —             | 80             | 10     | 7      | namecheap       |
 | toneup.training      | available | $21.99    | —             | 80             | 5      | 7      | name.com        |
-| makeit.training      | available | $21.99    | —             | 82             | 22     | 7      | name.com        |
+| makeit.training      | available | $21.99    | —             | 82             | 21     | 7      | name.com        |
 | stirup.training      | available | $21.99    | —             | 82             | 3      | 7      | name.com        |
 | getlife.training     | available | $21.99    | —             | 80             | 5      | 8      | name.com        |
 | tokens.training      | available | $21.99    | —             | 51             | 36     | 6      | name.com        |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TRAINING One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TRAINING One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
