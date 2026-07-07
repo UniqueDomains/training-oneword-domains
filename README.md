@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .training one-word domains 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,580 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,580 domains · **Median ask:** $26.00 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,580 domains · **Median ask:** $26.79 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/training`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/training`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .TRAINING one-word dom
 
 ### Files
 
-- `training.csv` — public CSV extract (1,000 rows)
-- `training.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `training.csv`, public CSV extract (1,000 rows)
+- `training.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| finals.training      | available | $21.99    | —             | 80             | 7      | 6      | name.com        |
-| barup.training       | available | $21.99    | —             | 82             | 2      | 6      | name.com        |
-| getup.training       | available | $21.99    | —             | 82             | 15     | 6      | name.com        |
-| popup.training       | available | $21.99    | —             | 84             | 28     | 6      | name.com        |
-| useit.training       | available | $21.99    | —             | 94             | 7      | 6      | name.com        |
-| dogsit.training      | available | $21.99    | —             | 96             | 2      | 6      | name.com        |
-| gearup.training      | available | $21.99    | —             | 80             | 16     | 7      | name.com        |
-| QandA.training       | available | $53.98    | —             | 80             | 10     | 7      | namecheap       |
-| toneup.training      | available | $21.99    | —             | 80             | 5      | 7      | name.com        |
-| makeit.training      | available | $21.99    | —             | 82             | 21     | 7      | name.com        |
-| stirup.training      | available | $21.99    | —             | 82             | 3      | 7      | name.com        |
-| getlife.training     | available | $21.99    | —             | 80             | 5      | 8      | name.com        |
-| tokens.training      | available | $21.99    | —             | 51             | 36     | 6      | name.com        |
-| live.training        | resell    | —         | —             | 86             | 54     | 4      | Porkbun LLC     |
-| restaurants.training | premium   | $500      | —             | 57             | 21     | 11     | name.com        |
-| letsgo.training      | available | $21.99    | —             | 57             | 31     | 7      | name.com        |
-| team.training        | resell    | —         | —             | 76             | 48     | 4      | Porkbun LLC     |
-| networks.training    | premium   | $123.75   | —             | 60             | 20     | 8      | name.com        |
-| inspiration.training | available | $21.99    | —             | 88             | 30     | 11     | name.com        |
-| circle.training      | resell    | —         | —             | 68             | 44     | 6      | Spaceship, Inc. |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
+| feel.training    | available | $21.99    | —             | high           | low    | 4      | name.com                   |
+| bad.training     | premium   | $242      | $242          | high           | medium | 3      | namesilo                   |
+| bang.training    | available | $21.99    | —             | high           | low    | 4      | name.com                   |
+| ana.training     | available | $21.99    | —             | high           | low    | 3      | name.com                   |
+| get.training     | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                |
+| add.training     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                   |
+| Ava.training     | available | $21.99    | —             | high           | medium | 3      | name.com                   |
+| love.training    | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC           |
+| inc.training     | available | $21.99    | —             | medium         | low    | 3      | name.com                   |
+| step.training    | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC           |
+| bud.training     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                   |
+| ive.training     | available | $21.99    | —             | medium         | low    | 3      | name.com                   |
+| well.training    | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.            |
+| cow.training     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                   |
+| wet.training     | available | $21.99    | —             | high           | low    | 3      | name.com                   |
+| guide.training   | resell    | —         | —             | high           | low    | 5      | NameSilo, LLC              |
+| coy.training     | premium   | $42.90    | $42.90        | medium         | low    | 3      | namecheap                  |
+| wiz.training     | available | $21.99    | $52.99        | high           | low    | 3      | name.com                   |
+| freedom.training | resell    | —         | —             | high           | medium | 7      | Squarespace Domains II LLC |
+| dry.training     | premium   | $82.50    | $82.50        | high           | low    | 3      | name.com                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .training domains. The set spans direct keyword names, broad nouns, and more flexible brandables such as Acup.training, Finals.training, Forces.training, and GetUp.training. For founders, the main question is whether the word is clear enough to carry a training business without extra explanation. For investors, the better candidates are words with obvious commercial use, broad buyer relevance, and a clean fit with the .training extension. With a median ask of 25.999, price discipline matters less than choosing names that are easy to remember, easy to interpret, and less likely to create trademark friction.
+This list of one-word .training domain names spans everyday, easy-to-spell words such as half, out, just, okay, feel, and correct. With 11,580 names in the selection and a median ask near $27, it offers a wide range of short, brandable options for training, coaching, and education-related projects. Updated daily, the set makes it simple to compare pricing and pick a name with confidence.
 
-- Favor words that fit education, coaching, or skills use cases
-- Check if the word reads naturally before .training
-- Prefer memorable names with broad buyer relevance
-- Avoid terms that may carry trademark or narrow-use risk
+- 11,580 one-word .training domain names in this selection
+- Median ask near $27 across the set
+- Everyday words: half, feel, correct, great, okay
+- Compare pricing and brandability before you choose
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TRAINING One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TRAINING One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
