@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .training one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 16,405 domains · **Median ask:** $19.48 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/training`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
-| abo.training       | available | $8.98     | $53.98        | low            | low    | 3      | namecheap                  |
-| get.training       | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                |
-| add.training       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                   |
-| ana.training       | available | $21.99    | —             | high           | low    | 3      | name.com                   |
-| love.training      | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC           |
-| bad.training       | premium   | $242      | $242          | high           | medium | 3      | namesilo                   |
-| Ava.training       | available | $21.99    | —             | high           | medium | 3      | name.com                   |
-| step.training      | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC           |
-| bud.training       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                   |
-| azo.training       | available | $8.98     | $53.98        | low            | low    | 3      | namecheap                  |
-| well.training      | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.            |
-| cow.training       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                   |
-| inc.training       | available | $21.99    | —             | medium         | low    | 3      | name.com                   |
-| guide.training     | resell    | —         | —             | high           | low    | 5      | NameSilo, LLC              |
-| coy.training       | premium   | $42.90    | $42.90        | medium         | low    | 3      | namecheap                  |
-| ive.training       | available | $21.99    | —             | medium         | low    | 3      | name.com                   |
-| freedom.training   | resell    | —         | —             | high           | medium | 7      | Squarespace Domains II LLC |
-| dry.training       | premium   | $82.50    | $82.50        | high           | low    | 3      | name.com                   |
-| lxv.training       | available | $8.98     | $53.98        | low            | low    | 3      | namecheap                  |
-| broadband.training | resell    | —         | —             | high           | low    | 9      | GoDaddy.com, LLC           |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
+| feel.training    | available | $21.99    | —             | high           | low    | 4      | name.com                   |
+| bad.training     | premium   | $242      | $242          | high           | medium | 3      | namesilo                   |
+| abo.training     | available | $8.98     | $53.98        | low            | low    | 3      | namecheap                  |
+| get.training     | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                |
+| add.training     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                   |
+| ana.training     | available | $21.99    | —             | high           | low    | 3      | name.com                   |
+| love.training    | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC           |
+| Ava.training     | available | $21.99    | —             | high           | medium | 3      | name.com                   |
+| step.training    | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC           |
+| bud.training     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                   |
+| azo.training     | available | $8.98     | $53.98        | low            | low    | 3      | namecheap                  |
+| well.training    | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.            |
+| cow.training     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                   |
+| inc.training     | available | $21.99    | —             | medium         | low    | 3      | name.com                   |
+| guide.training   | resell    | —         | —             | high           | low    | 5      | NameSilo, LLC              |
+| coy.training     | premium   | $42.90    | $42.90        | medium         | low    | 3      | namecheap                  |
+| ive.training     | available | $21.99    | —             | medium         | low    | 3      | name.com                   |
+| freedom.training | resell    | —         | —             | high           | medium | 7      | Squarespace Domains II LLC |
+| dry.training     | premium   | $82.50    | $82.50        | high           | low    | 3      | name.com                   |
+| lxv.training     | available | $8.98     | $53.98        | low            | low    | 3      | namecheap                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TRAINING One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TRAINING One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
