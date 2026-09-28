@@ -1,10 +1,10 @@
-# Available .TRAINING One-Word Domains (22,241)
+# Available .TRAINING One-Word Domains (22,757)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C241%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C757%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .training one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,241 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,757 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,241 domains · **Median ask:** $16.20 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 22,757 domains · **Median ask:** $16.21 · **High-demand under $2,500:** 1
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/training`
@@ -73,16 +73,16 @@ print(df.head())
 | eps.training     | available | $11.99    | $34.46        | high           | low    | 3      | dynadot                                                   |
 | love.training    | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC                                          |
 | dud.training     | premium   | $82.50    | $82.50        | high           | low    | 3      | name.com                                                  |
-| mrs.training     | available | $15.99    | $41.99        | high           | low    | 3      | namesilo                                                  |
+| lds.training     | available | $7.96     | $33.32        | high           | low    | 3      | spaceship                                                 |
 | need.training    | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 23                                         |
 | est.training     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
-| nih.training     | available | $7.96     | $33.32        | high           | low    | 3      | spaceship                                                 |
+| mrs.training     | available | $15.99    | $41.99        | high           | low    | 3      | namesilo                                                  |
 | quick.training   | resell    | —         | —             | high           | medium | 5      | Squarespace Domains II LLC                                |
 | gym.training     | premium   | $123.75   | —             | high           | low    | 3      | name.com                                                  |
-| rna.training     | available | $15.99    | $41.99        | high           | low    | 3      | namesilo                                                  |
+| nih.training     | available | $7.96     | $33.32        | high           | low    | 3      | spaceship                                                 |
 | energy.training  | resell    | —         | —             | high           | medium | 6      | IONOS SE                                                  |
 | hag.training     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
-| sib.training     | available | $8.98     | $53.98        | medium         | low    | 3      | namecheap                                                 |
+| rna.training     | available | $15.99    | $41.99        | high           | low    | 3      | namesilo                                                  |
 | driving.training | resell    | —         | —             | high           | low    | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 22,241 live domains                        |
+| 1,000-row public sample | 22,757 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
