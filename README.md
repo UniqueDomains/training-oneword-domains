@@ -1,10 +1,10 @@
-# Available .TRAINING One-Word Domains (22,757)
+# Available .TRAINING One-Word Domains (24,540)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C757%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C540%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .training one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,757 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,540 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,757 domains · **Median ask:** $16.21 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 24,540 domains · **Median ask:** $16.06 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-28
+**Last updated:** 2026-09-29
 **Canonical page:** `https://unique.domains/domains/tld/training`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| bce.training     | available | $21.99    | —             | high           | low    | 3      | name.com                                                  |
-| sex.training     | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                               |
-| boo.training     | premium   | $123.75   | —             | high           | low    | 3      | name.com                                                  |
-| blt.training     | available | $15.99    | $41.99        | high           | low    | 3      | namesilo                                                  |
-| xml.training     | resell    | —         | —             | medium         | low    | 3      | —                                                         |
-| dig.training     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
-| eps.training     | available | $11.99    | $34.46        | high           | low    | 3      | dynadot                                                   |
-| love.training    | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC                                          |
-| dud.training     | premium   | $82.50    | $82.50        | high           | low    | 3      | name.com                                                  |
-| lds.training     | available | $7.96     | $33.32        | high           | low    | 3      | spaceship                                                 |
-| need.training    | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 23                                         |
-| est.training     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
-| mrs.training     | available | $15.99    | $41.99        | high           | low    | 3      | namesilo                                                  |
-| quick.training   | resell    | —         | —             | high           | medium | 5      | Squarespace Domains II LLC                                |
-| gym.training     | premium   | $123.75   | —             | high           | low    | 3      | name.com                                                  |
-| nih.training     | available | $7.96     | $33.32        | high           | low    | 3      | spaceship                                                 |
-| energy.training  | resell    | —         | —             | high           | medium | 6      | IONOS SE                                                  |
-| hag.training     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
-| rna.training     | available | $15.99    | $41.99        | high           | low    | 3      | namesilo                                                  |
-| driving.training | resell    | —         | —             | high           | low    | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
+| bce.training     | available | $15       | —             | medium         | low    | 3      | unstoppable                |
+| sex.training     | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                |
+| boo.training     | premium   | $54.36    | $108.60       | medium         | low    | 3      | porkbun                    |
+| blt.training     | available | $15.99    | $41.99        | high           | low    | 3      | namesilo                   |
+| xml.training     | resell    | —         | —             | medium         | low    | 3      | —                          |
+| dam.training     | premium   | $68.51    | $68.51        | high           | low    | 3      | spaceship                  |
+| eps.training     | available | $11.99    | $34.46        | high           | low    | 3      | dynadot                    |
+| love.training    | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC           |
+| dig.training     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                   |
+| idf.training     | available | $32.20    | $32.20        | medium         | low    | 3      | cloudflare                 |
+| exams.training   | resell    | —         | —             | medium         | low    | 5      | —                          |
+| dud.training     | premium   | $82.50    | $82.50        | high           | low    | 3      | name.com                   |
+| lds.training     | available | $7.96     | $33.32        | high           | low    | 3      | spaceship                  |
+| quick.training   | resell    | —         | —             | high           | medium | 5      | Squarespace Domains II LLC |
+| est.training     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                   |
+| mrs.training     | available | $15.99    | $41.99        | high           | low    | 3      | namesilo                   |
+| whites.training  | resell    | —         | —             | high           | low    | 6      | —                          |
+| gym.training     | premium   | $123.75   | —             | high           | low    | 3      | name.com                   |
+| nih.training     | available | $7.96     | $33.32        | high           | low    | 3      | spaceship                  |
+| freedom.training | resell    | —         | —             | high           | medium | 7      | Squarespace Domains II LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 22,757 live domains                        |
+| 1,000-row public sample | 24,540 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TRAINING One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TRAINING One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
